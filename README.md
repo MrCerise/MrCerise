@@ -16,7 +16,8 @@ And I'm a [youtuber](https://www.youtube.com/@mrcerisefr) that make [stream](htt
 My website is accessible here 👉 : https://mrcerise.fr
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=HydraDevFR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=MrCerise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <br>
+        <br>
+        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur gitio/streak-stats" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCerise&amp;title_color=00E7FF&amp;text_color=FFFFFF&amp;icon_color=c9cacc&amp;bg_color=060A0CD0&amp;langs_count=5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
