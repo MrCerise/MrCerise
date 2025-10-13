@@ -13,8 +13,6 @@ I'm coding in :
 
 And I'm a [youtuber](https://www.youtube.com/@mrcerisefr) that make [stream](https://www.twitch.tv/mr_cerisefr) too.
 
-My website is accessible here 👉 : https://mrcerise.fr
-
 <p align="center">
         <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=MrCerise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
         <br>
