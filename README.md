@@ -1,19 +1,30 @@
-### Hi there 👋
-
-I'm Mr Cerise, a **French developer**
-
-I'm coding in :
-<p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-</p>
+<h1 align="center">My Profile</h1>
 
 <p align="center">
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=MrCerise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        <br>
-        <br>
-        <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur gitio/streak-stats" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCerise&amp;title_color=00E7FF&amp;text_color=FFFFFF&amp;icon_color=c9cacc&amp;bg_color=060A0CD0&amp;langs_count=5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <a href="https://mrcerise.fr">
+    <img src="https://img.shields.io/badge/Website-mrcerise.fr-18181B?style=flat-square&logoColor=white&labelColor=27272A" alt="Personal website" />
+  </a>
+  <a href="https://github.com/NexaLabFrance">
+    <img src="https://github.com/Nexalabfrance.png" alt="Nexalab France logo" width="20" />
+    <img src="https://img.shields.io/badge/NexaLab-CEO-818CF8?style=flat-square&labelColor=27272A" alt="Nexalab France" />
+  </a>
+  <a href="https://github.com/wispbyte">
+    <img src="https://github.com/wispbyte.png" alt="Wispbyte logo" width="20" />
+    <img src="https://img.shields.io/badge/Wispbyte-Community_Moderator-818CF8?style=flat-square&labelColor=27272A" alt="Community Moderator at Wispbyte" />
+  </a>
 </p>
+
+### About
+Hi there 👋
+I'm **Mr Cerise**, a French developer working with **JavaScript** and **Python**, alongside **HTML, CSS and MySQL**.
+
+Beyond coding, I'm a **Community Moderator at Wispbyte** and the **CEO of NexaLab France**, where I build tools and services for developers.
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mrcerise&show_icons=true&theme=transparent&hide_border=true&title_color=818CF8&icon_color=818CF8" alt="GitHub stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrcerise&layout=compact&theme=transparent&hide_border=true&title_color=818CF8" alt="Top languages" height="150" />
+</p>
+
+---
